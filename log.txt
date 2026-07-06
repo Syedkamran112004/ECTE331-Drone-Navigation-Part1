@@ -1,0 +1,242 @@
+2026-07-05T13:25:25.528697300 - Sensor C has failed.
+2026-07-05T13:25:25.538693100 - No majority found. Using previous altitude: 100
+2026-07-05T13:25:25.539692400 - Sensor B has failed.
+2026-07-05T13:25:25.539692400 - No majority found. Using previous altitude: 100
+2026-07-05T13:25:25.540694100 - SAFE MODE activated.
+2026-07-05T13:25:25.541695400 - Program stopped because drone entered SAFE MODE.
+2026-07-05T13:27:50.698165400 - No majority found. Using previous altitude: 100
+2026-07-05T13:27:50.711169200 - Sensor B has failed.
+2026-07-05T13:27:50.712166600 - No majority found. Using previous altitude: 100
+2026-07-05T13:27:50.713167 - SAFE MODE activated.
+2026-07-05T13:27:50.713167 - Program stopped because drone entered SAFE MODE.
+2026-07-05T13:27:59.043547500 - Sensor A has failed.
+2026-07-05T13:27:59.068549 - Sensor C corrupted reading: 266
+2026-07-05T13:27:59.069550500 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T13:27:59.070545500 - Sensor A has failed.
+2026-07-05T13:27:59.071551400 - No majority found. Using previous altitude: 100
+2026-07-05T13:27:59.071551400 - SAFE MODE activated.
+2026-07-05T13:27:59.072548800 - Program stopped because drone entered SAFE MODE.
+2026-07-05T13:34:53.113821 - No majority found. Using previous altitude: 100
+2026-07-05T13:34:53.125342200 - No majority found. Using previous altitude: 100
+2026-07-05T13:34:53.125342200 - SAFE MODE activated.
+2026-07-05T13:34:53.126341900 - Program stopped because drone entered SAFE MODE.
+2026-07-05T13:37:27.129568300 - No majority found. Using previous altitude: 100
+2026-07-05T13:37:27.144080200 - Sensor C has failed.
+2026-07-05T13:37:27.145094700 - No majority found. Using previous altitude: 100
+2026-07-05T13:37:27.146093600 - SAFE MODE activated.
+2026-07-05T13:37:27.146093600 - Program stopped because drone entered SAFE MODE.
+2026-07-05T13:39:18.332396200 - Sensor C has failed.
+2026-07-05T13:39:18.342398400 - Outlier detected: Sensor C
+2026-07-05T13:39:18.350396900 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T13:39:18.351396200 - Sensor C has failed.
+2026-07-05T13:39:18.352397700 - Outlier detected: Sensor C
+2026-07-05T13:39:18.353396300 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T13:39:18.354396 - Sensor A corrupted reading: 315
+2026-07-05T13:39:18.355396800 - Sensor C corrupted reading: 272
+2026-07-05T13:39:18.355396800 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T13:39:18.356396 - Sensor B has failed.
+2026-07-05T13:39:18.357395300 - Outlier detected: Sensor B
+2026-07-05T13:39:18.357395300 - Majority decision from Sensor A and Sensor C. Altitude = 100
+2026-07-05T13:39:18.358397 - Sensor A has failed.
+2026-07-05T13:39:18.358397 - Sensor B has failed.
+2026-07-05T13:39:18.359393600 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T13:39:18.360396200 - Sensor C has failed.
+2026-07-05T13:39:18.360396200 - Outlier detected: Sensor C
+2026-07-05T13:39:18.361398 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T13:39:18.362394200 - Sensor A has failed.
+2026-07-05T13:39:18.363398100 - Outlier detected: Sensor A
+2026-07-05T13:39:18.363398100 - Majority decision from Sensor B and Sensor C. Altitude = 100
+2026-07-05T13:39:18.364395300 - Sensor B has failed.
+2026-07-05T13:39:18.364395300 - Sensor C corrupted reading: 259
+2026-07-05T13:39:18.365393800 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T13:39:18.366395300 - Sensor C has failed.
+2026-07-05T13:39:18.367395800 - Outlier detected: Sensor C
+2026-07-05T13:39:18.368399300 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T13:39:18.368399300 - Sensor C corrupted reading: 284
+2026-07-05T13:39:18.369396600 - Outlier detected: Sensor C
+2026-07-05T13:39:18.370396600 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T13:39:18.370396600 - Sensor B corrupted reading: 260
+2026-07-05T13:39:18.371397200 - Sensor C corrupted reading: 250
+2026-07-05T13:39:18.372397100 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T13:39:18.373398300 - Sensor C has failed.
+2026-07-05T13:39:18.373398300 - Outlier detected: Sensor C
+2026-07-05T13:39:18.374395900 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T13:39:18.375397 - Outlier detected: Sensor C
+2026-07-05T13:39:18.376395300 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T13:39:18.377396100 - Sensor A corrupted reading: 315
+2026-07-05T13:39:18.377396100 - Sensor B has failed.
+2026-07-05T13:39:18.378395700 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T13:39:18.379398600 - Sensor A corrupted reading: 286
+2026-07-05T13:39:18.380395700 - Outlier detected: Sensor A
+2026-07-05T13:39:18.381395900 - Majority decision from Sensor B and Sensor C. Altitude = 100
+2026-07-05T13:39:18.381395900 - Outlier detected: Sensor C
+2026-07-05T13:39:18.382395700 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T13:39:18.383396900 - Sensor A has failed.
+2026-07-05T13:39:18.384396200 - Sensor C corrupted reading: 319
+2026-07-05T13:39:18.384396200 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T13:39:18.385396700 - Sensor C has failed.
+2026-07-05T13:39:18.386397500 - Outlier detected: Sensor C
+2026-07-05T13:39:18.386397500 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T13:39:18.387408300 - Outlier detected: Sensor C
+2026-07-05T13:39:18.388409400 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T13:39:18.389410300 - Sensor B corrupted reading: 292
+2026-07-05T13:39:18.390411300 - Outlier detected: Sensor B
+2026-07-05T13:39:18.390411300 - Majority decision from Sensor A and Sensor C. Altitude = 100
+2026-07-05T14:31:24.373893200 - Outlier detected: Sensor C
+2026-07-05T14:31:24.390901300 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T14:31:24.391894900 - Outlier detected: Sensor C
+2026-07-05T14:31:24.392899 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T14:31:24.393900800 - Outlier detected: Sensor C
+2026-07-05T14:31:24.393900800 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T14:31:24.397924200 - Sensor C has failed.
+2026-07-05T14:31:24.398906700 - Outlier detected: Sensor C
+2026-07-05T14:31:24.398906700 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T14:31:24.399908500 - Sensor B has failed.
+2026-07-05T14:31:24.400909600 - Outlier detected: Sensor B
+2026-07-05T14:31:24.401908400 - Majority decision from Sensor A and Sensor C. Altitude = 100
+2026-07-05T14:31:24.402907700 - Sensor C has failed.
+2026-07-05T14:31:24.402907700 - Outlier detected: Sensor C
+2026-07-05T14:31:24.403921900 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T14:31:24.405905400 - Sensor C corrupted reading: 257
+2026-07-05T14:31:24.405905400 - Outlier detected: Sensor C
+2026-07-05T14:31:24.406906200 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T14:31:24.407907700 - Outlier detected: Sensor C
+2026-07-05T14:31:24.407907700 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T14:31:24.408906800 - Sensor C corrupted reading: 339
+2026-07-05T14:31:24.409908 - Outlier detected: Sensor C
+2026-07-05T14:31:24.409908 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T14:31:24.410909400 - Sensor A corrupted reading: 297
+2026-07-05T14:31:24.410909400 - Sensor C corrupted reading: 300
+2026-07-05T14:31:24.410909400 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T14:31:24.412037300 - Sensor A has failed.
+2026-07-05T14:31:24.412037300 - Sensor B has failed.
+2026-07-05T14:31:24.413038200 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T14:31:24.413038200 - SAFE MODE activated.
+2026-07-05T14:31:24.414039500 - Program stopped because drone entered SAFE MODE.
+2026-07-05T15:36:30.588426600 - Sensor B has failed.
+2026-07-05T15:36:30.607554900 - Outlier detected: Sensor B
+2026-07-05T15:36:30.618649800 - Majority decision from Sensor A and Sensor C. Altitude = 100
+2026-07-05T15:36:30.621650 - Sensor B corrupted reading: 282
+2026-07-05T15:36:30.622650600 - Outlier detected: Sensor B
+2026-07-05T15:36:30.622650600 - Majority decision from Sensor A and Sensor C. Altitude = 100
+2026-07-05T15:36:30.624160400 - Outlier detected: Sensor C
+2026-07-05T15:36:30.626180300 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T15:36:30.627690400 - Sensor A has failed.
+2026-07-05T15:36:30.628705700 - Sensor C has failed.
+2026-07-05T15:36:30.629709200 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T15:36:30.631709100 - Sensor A has failed.
+2026-07-05T15:36:30.632706 - Sensor C corrupted reading: 335
+2026-07-05T15:36:30.632706 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T15:36:30.634224300 - SAFE MODE activated.
+2026-07-05T15:36:30.635233500 - Program stopped because drone entered SAFE MODE.
+2026-07-05T15:37:18.833214200 - Sensor A has failed.
+2026-07-05T15:37:18.857356100 - Sensor B corrupted reading: 300
+2026-07-05T15:37:18.858354700 - Sensor C corrupted reading: 290
+2026-07-05T15:37:18.859354500 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T15:37:18.860353800 - Sensor A corrupted reading: 300
+2026-07-05T15:37:18.861354300 - Sensor B corrupted reading: 300
+2026-07-05T15:37:18.861354300 - Sensor C corrupted reading: 340
+2026-07-05T15:37:18.862862900 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T15:37:18.863882100 - SAFE MODE activated.
+2026-07-05T15:37:18.864882400 - Program stopped because drone entered SAFE MODE.
+2026-07-05T15:39:51.317498900 - No majority found. Using previous altitude: 100
+2026-07-05T15:39:51.331075600 - No majority found. Using previous altitude: 100
+2026-07-05T15:39:51.331075600 - SAFE MODE activated.
+2026-07-05T15:39:51.332075200 - Program stopped because drone entered SAFE MODE.
+2026-07-05T15:46:44.596661600 - Outlier detected: Sensor C
+2026-07-05T15:46:44.642934600 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T15:46:44.654924600 - Sensor A has failed.
+2026-07-05T15:46:44.656446300 - Sensor B has failed.
+2026-07-05T15:46:44.658469 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T15:46:44.662992900 - Sensor A has failed.
+2026-07-05T15:46:44.665010900 - Outlier detected: Sensor A
+2026-07-05T15:46:44.667538500 - Majority decision from Sensor B and Sensor C. Altitude = 100
+2026-07-05T15:46:44.670066100 - Sensor C corrupted reading: 282
+2026-07-05T15:46:44.673090100 - Outlier detected: Sensor C
+2026-07-05T15:46:44.675084600 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T15:46:44.677645200 - Sensor A corrupted reading: 260
+2026-07-05T15:46:44.679641300 - Outlier detected: Sensor A
+2026-07-05T15:46:44.680153400 - Majority decision from Sensor B and Sensor C. Altitude = 100
+2026-07-05T15:46:44.683170100 - Sensor B corrupted reading: 321
+2026-07-05T15:46:44.685185800 - Outlier detected: Sensor B
+2026-07-05T15:46:44.690720800 - Majority decision from Sensor A and Sensor C. Altitude = 100
+2026-07-05T15:46:44.695808300 - Sensor A corrupted reading: 255
+2026-07-05T15:46:44.702286800 - Outlier detected: Sensor A
+2026-07-05T15:46:44.704283400 - Majority decision from Sensor B and Sensor C. Altitude = 100
+2026-07-05T15:46:44.706300800 - Sensor B corrupted reading: 293
+2026-07-05T15:46:44.708315 - Sensor C has failed.
+2026-07-05T15:46:44.709834200 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T15:46:44.710618700 - Sensor C corrupted reading: 299
+2026-07-05T15:46:44.711629600 - Outlier detected: Sensor C
+2026-07-05T15:46:44.712629300 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T15:46:44.714150700 - Sensor A corrupted reading: 310
+2026-07-05T15:46:44.715162400 - Outlier detected: Sensor A
+2026-07-05T15:46:44.716675400 - Majority decision from Sensor B and Sensor C. Altitude = 100
+2026-07-05T15:46:44.717698700 - Outlier detected: Sensor C
+2026-07-05T15:46:44.717698700 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T15:46:44.720230600 - Sensor A corrupted reading: 300
+2026-07-05T15:46:44.722243800 - Outlier detected: Sensor A
+2026-07-05T15:46:44.723755400 - Majority decision from Sensor B and Sensor C. Altitude = 100
+2026-07-05T15:46:44.727312900 - Sensor A corrupted reading: 321
+2026-07-05T15:46:44.729318 - Outlier detected: Sensor A
+2026-07-05T15:46:44.731857600 - Majority decision from Sensor B and Sensor C. Altitude = 100
+2026-07-05T15:46:44.738402500 - Sensor B corrupted reading: 295
+2026-07-05T15:46:44.740952400 - Sensor C corrupted reading: 280
+2026-07-05T15:46:44.744470700 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T15:46:44.745481800 - Outlier detected: Sensor C
+2026-07-05T15:46:44.746490900 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T15:46:44.749010300 - Outlier detected: Sensor C
+2026-07-05T15:46:44.749555100 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T15:46:44.751577 - Sensor A has failed.
+2026-07-05T15:46:44.756654 - Sensor C corrupted reading: 281
+2026-07-05T15:46:44.759202 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T15:46:44.764220100 - Outlier detected: Sensor C
+2026-07-05T15:46:44.767254600 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T15:46:44.769269600 - Sensor A corrupted reading: 259
+2026-07-05T15:46:44.770793900 - Outlier detected: Sensor A
+2026-07-05T15:46:44.771792400 - Majority decision from Sensor B and Sensor C. Altitude = 100
+2026-07-05T15:46:44.773306600 - Sensor A corrupted reading: 278
+2026-07-05T15:46:44.773306600 - Sensor C has failed.
+2026-07-05T15:46:44.774318500 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T15:47:30.248858600 - Sensor A has failed.
+2026-07-05T15:47:30.309100800 - Sensor B corrupted reading: 300
+2026-07-05T15:47:30.310117800 - Sensor C has failed.
+2026-07-05T15:47:30.312119100 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T15:47:30.313635600 - Sensor A corrupted reading: 300
+2026-07-05T15:47:30.314656700 - Sensor B corrupted reading: 300
+2026-07-05T15:47:30.315667300 - Sensor C corrupted reading: 300
+2026-07-05T15:47:30.316666700 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T15:47:30.317669100 - SAFE MODE activated.
+2026-07-05T15:47:30.319182200 - Program stopped because drone entered SAFE MODE.
+2026-07-05T15:48:23.710295800 - No majority found. Using previous altitude: 100
+2026-07-05T15:48:23.743031500 - No majority found. Using previous altitude: 100
+2026-07-05T15:48:23.744572 - SAFE MODE activated.
+2026-07-05T15:48:23.746101100 - Program stopped because drone entered SAFE MODE.
+2026-07-05T16:14:40.407592300 - Sensor B corrupted reading: 257
+2026-07-05T16:14:40.417612600 - Sensor C has failed.
+2026-07-05T16:14:40.419613700 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T16:14:40.420609 - Outlier detected: Sensor C
+2026-07-05T16:14:40.421612 - Majority decision from Sensor A and Sensor B. Altitude = 100
+2026-07-05T16:14:40.422625 - Sensor B has failed.
+2026-07-05T16:14:40.422625 - Sensor C has failed.
+2026-07-05T16:14:40.423626400 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T16:14:40.425627 - Sensor A has failed.
+2026-07-05T16:14:40.426623300 - Sensor C corrupted reading: 277
+2026-07-05T16:14:40.426623300 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T16:14:40.427625200 - SAFE MODE activated.
+2026-07-05T16:14:40.428623500 - Program stopped because drone entered SAFE MODE.
+2026-07-05T16:15:01.414196600 - Sensor A has failed.
+2026-07-05T16:15:01.442258200 - Sensor B corrupted reading: 300
+2026-07-05T16:15:01.443262 - Sensor C corrupted reading: 314
+2026-07-05T16:15:01.445278500 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T16:15:01.446275900 - Sensor A corrupted reading: 300
+2026-07-05T16:15:01.447278100 - Sensor B corrupted reading: 300
+2026-07-05T16:15:01.448275600 - Sensor C corrupted reading: 300
+2026-07-05T16:15:01.449277600 - Reliability warning: fewer than two valid sensor readings.
+2026-07-05T16:15:01.449277600 - SAFE MODE activated.
+2026-07-05T16:15:01.450277700 - Program stopped because drone entered SAFE MODE.
+2026-07-05T16:15:40.592218100 - Sensor C has failed.
+2026-07-05T16:15:40.605793600 - No majority found. Using previous altitude: 100
+2026-07-05T16:15:40.607797 - No majority found. Using previous altitude: 100
+2026-07-05T16:15:40.608797700 - SAFE MODE activated.
+2026-07-05T16:15:40.609795400 - Program stopped because drone entered SAFE MODE.
