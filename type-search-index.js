@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"drone","l":"AltitudeSensor"},{"p":"drone","l":"DroneApp"},{"p":"drone","l":"EventLogger"},{"p":"drone","l":"FlightComputer"},{"p":"drone","l":"SensorReadException"},{"p":"drone","l":"SystemReliabilityException"}];updateSearchResults();
